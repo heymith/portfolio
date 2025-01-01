@@ -70,7 +70,7 @@ const Home = () => {
           </div>
           <div className="p-4">
             <iframe
-              src="https://drive.google.com/file/d/1WYdVKkaZSDuotqTC5YHI5Rbampn6ZT4E/view?usp=sharing"
+              src="https://drive.google.com/file/d/1WYdVKkaZSDuotqTC5YHI5Rbampn6ZT4E/preview" width="640" height="480" allow="autoplay"
               title="Resume"
               className="w-full h-[80vh] border-0"
             />
