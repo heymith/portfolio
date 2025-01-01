@@ -70,7 +70,7 @@ const Home = () => {
           </div>
           <div className="p-4">
             <iframe
-              src="/resume.pdf"
+              src="./resume.pdf"
               title="Resume"
               className="w-full h-[80vh] border-0"
             />
