@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    position:absolute;
+    visibility: hidden;
+  }
+   
+  ::-webkit-scrollbar-track {
+    visibility: hidden;
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background:#FEF0FF;
+    border-radius:10px;
+    visibility: hidden;
+  }
+  
+  
