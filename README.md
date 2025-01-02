@@ -23,7 +23,7 @@ Styling: Styled-components, TailwindCSS, or CSS Modules
 
 🎨 Demo
 
-Check out the live version of my portfolio: www.heymith.github.io/portfolio
+Check out the live version of my portfolio: [<3](https://heymith.github.io/portfolio)
 
 
 ⚠️ Disclaimer
